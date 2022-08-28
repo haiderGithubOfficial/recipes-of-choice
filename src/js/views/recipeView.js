@@ -185,6 +185,5 @@ class RecipeView extends View {
     });
   }
 }
-var n2f = require('num2fraction');
-console.log(n2f(2));
+
 export default new RecipeView();
